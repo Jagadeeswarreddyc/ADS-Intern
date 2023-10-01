@@ -1,0 +1,31 @@
+Patient_ID, Age, Gender, Chronic_Conditions, Previous_Hospitalizations, Medications, Length_of_Stay, Diagnosis, Emergency_Admission, Readmitted
+1, 65, Male, Hypertension, 2, Lisinopril, 4, Heart Attack, No, 1
+2, 48, Female, Diabetes, 1, Metformin, 3, Stroke, No, 0
+3, 72, Male, None, 0, None, 2, Pneumonia, Yes, 0
+4, 58, Female, Heart Disease, 3, Statins, 5, Heart Failure, No, 1
+5, 68, Male, Diabetes, 2, Insulin, 6, Heart Attack, Yes, 0
+6, 55, Female, Asthma, 1, Albuterol, 4, COPD Exacerbation, No, 1
+7, 67, Male, Hypertension, 1, Lisinopril, 7, Stroke, No, 1
+8, 62, Female, Diabetes, 1, Metformin, 3, Kidney Infection, Yes, 0
+9, 75, Male, None, 0, None, 2, Appendicitis, Yes, 0
+10, 50, Female, Hypertension, 2, Lisinopril, 5, Stroke, No, 1
+11, 63, Male, Diabetes, 1, Insulin, 4, Heart Attack, No, 1
+12, 45, Female, None, 0, None, 3, Pneumonia, No, 0
+13, 70, Male, Heart Disease, 2, Statins, 6, Heart Failure, Yes, 0
+14, 61, Female, Diabetes, 1, Metformin, 4, Heart Attack, No, 1
+15, 52, Male, Asthma, 1, Albuterol, 5, COPD Exacerbation, Yes, 0
+16, 74, Female, Hypertension, 1, Lisinopril, 3, Stroke, No, 0
+17, 47, Male, None, 0, None, 2, Kidney Infection, No, 0
+18, 69, Female, Diabetes, 2, Insulin, 7, Heart Attack, No, 1
+19, 56, Male, Hypertension, 1, Lisinopril, 3, Appendicitis, No, 0
+20, 60, Female, None, 0, None, 4, Pneumonia, Yes, 0
+21, 66, Male, Heart Disease, 3, Statins, 5, Heart Failure, No, 1
+22, 53, Female, Diabetes, 2, Metformin, 6, Stroke, Yes, 1
+23, 71, Male, None, 0, None, 2, Heart Attack, No, 0
+24, 59, Female, Asthma, 1, Albuterol, 4, COPD Exacerbation, No, 1
+25, 64, Male, Hypertension, 1, Lisinopril, 3, Pneumonia, No, 0
+26, 49, Female, Diabetes, 1, Insulin, 5, Heart Attack, No, 1
+27, 73, Male, Heart Disease, 2, Statins, 6, Heart Failure, Yes, 0
+28, 54, Female, None, 0, None, 2, Stroke, No, 0
+29, 57, Male, Diabetes, 1, Metformin, 4, Kidney Infection, No, 0
+30, 46, Female, Hypertension, 2, Lisinopril, 7, Appendicitis, Yes, 0
